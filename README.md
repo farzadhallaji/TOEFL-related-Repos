@@ -6,4 +6,5 @@
 - https://github.com/farzadhallaji/AnkiPersianTranslatorPlus
 - https://github.com/farzadhallaji/translate-to-clipboard
 - https://github.com/farzadhallaji/vocab
+- https://github.com/farzadhallaji/myTakenTpoNeos
 
